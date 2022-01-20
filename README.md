@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MariaDoro
 - 👀 I’m interested in chemistry
-- 🌱 I’m currently learning HTML, CSS, JvaScript, PHP etc.
+- 🌱 I’m currently learning HTML, CSS, JS, PHP, MySQL etc.
 - 💞️ I’m looking to collaborate on the creation of web sites 
 - 📫 How to reach me maria.povalyakhina@gmail.com
 
